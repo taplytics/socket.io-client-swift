@@ -517,6 +517,7 @@
 				TargetAttributes = {
 					572EF2181B51F16C00EEBB58 = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = W22S7YBPB4;
 					};
 					572EF2231B51F16C00EEBB58 = {
 						CreatedOnToolsVersion = 6.4;
@@ -885,8 +886,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
